@@ -7,6 +7,11 @@ import javax.swing.Timer;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
+/**
+ * @author Ben Harper
+ * @version 1.0
+ * @since 1.0
+ */
 public class DigitalClock2 extends JFrame implements ActionListener {
 
 	JLabel lblShowTime = new JLabel("");
